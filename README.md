@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @natazsja
+- 👋 Hi, you can call me Nata
 - 🌱 I’m a newbie here and currently learning codeigniter for my final year website project.
-- 💞️ I’m looking to collaborate on ...
 - 📫 For any collaboration kindly contact me on gmail natazsjaazzahraa@gmail.com
 
 <!---
